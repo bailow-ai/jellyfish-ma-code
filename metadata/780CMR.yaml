@@ -1,0 +1,13 @@
+title: "780 CMR - Massachusetts Residential Code"
+edition: "10th Edition"
+jurisdiction: "Massachusetts"
+code_series: "Residential (IRC 2021 with MA Amendments)"
+source_url: "https://www.mass.gov/doc/bbrs-10th-edition-building-code/download"
+file_name: "bbrs-10th-edition-building-code.pdf"
+file_hash: "<insert SHA256 here>"
+last_downloaded: "2025-09-22"
+status: "Unofficial copy from Mass.gov"
+notes: |
+  This is an unofficial copy of the 780 CMR Residential Code as published by
+  the Massachusetts Board of Building Regulations and Standards (BBRS).
+  Official copies must be obtained from the Secretary of the Commonwealth.
